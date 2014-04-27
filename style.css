@@ -499,6 +499,11 @@
     margin: 0px;
   }
 
+  /*  this is a hack, james, can you fix? */
+  .content .md table {
+    width:100% !important;
+  }
+
   .md th {
     font-weight:normal;
     border:none;
